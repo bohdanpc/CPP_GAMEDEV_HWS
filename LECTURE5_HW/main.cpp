@@ -1,9 +1,11 @@
-#include <iostream"
+#include <iostream>
+
 
 int main()
 {
-cout <<"HELLO wORLD";
+    using namespace std;
+ 
+    cout <<"HELLO WORLD";
 
-
-return 3;
+    return 0;
 }
